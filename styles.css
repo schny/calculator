@@ -1,0 +1,35 @@
+button {
+    margin: 5px;
+    font-size:30px;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+   
+}
+
+#calc-display {
+    height: 55px;
+}
+
+#clear {
+    width: ;
+
+}
+
+input[type='textfield'] {
+    height: 60px;
+    width: 200px;
+    margin: 10px;
+    font-size: 30px;
+    padding: 5px;
+    text-align: right;
+}
+
+#calc-container {
+    background-color: rgb(173, 162, 0);
+    width: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 8px solid rgb(54, 53, 0);
+    margin:auto;
+}
